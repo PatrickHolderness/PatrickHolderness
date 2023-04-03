@@ -3,9 +3,14 @@
 
 - 🌍 I’m based in **Berlin, Germany**
 
+- 🧠 I’m learning **Next.js, Astro**
+
 - See my portfolio here: [http://patrickholderness.com](http://patrickholderness.com)
 
 - You can contact me at **patrickholderness@gmail.com**
+
+- ⚡  I'm currently looking for an opportunity as a junior front-end developer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
