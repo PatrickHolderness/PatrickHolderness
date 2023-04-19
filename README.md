@@ -3,7 +3,7 @@
 
 * 🌍 I’m based in **Berlin, Germany**
 
-* 🧠 I’m learning **Next.js, Astro**
+* 🧠 I’m learning **Next.js, Astro,** **Python
 
 * 🖥️ See my portfolio here: [http://patrickholderness.com](http://patrickholderness.com)
 
