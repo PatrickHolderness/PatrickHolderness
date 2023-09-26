@@ -5,11 +5,11 @@
 
 * I’m learning **Next.js, Python, OpenAI, Solidity** 
 
-* 🖥️ See my portfolio here: [http://patrickholderness.com](http://patrickholderness.com)
+* See my portfolio here: [http://patrickholderness.com](http://patrickholderness.com)
 
-* ✉️ You can contact me at **patrickholderness@gmail.com**
+* You can contact me at **patrickholderness@gmail.com**
 
-* ⚡  I'm currently looking for an opportunity as a full stack or front-end developer
+*  I'm currently looking for an opportunity as a full stack or front-end developer
 
 
 <h3 align="left">Connect with me:</h3>
