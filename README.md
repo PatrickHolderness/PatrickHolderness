@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">Software Engineer and Web Developer</h3>
 
-* 🌍 I’m based in **Berlin, Germany**
+* I’m based in **Berlin, Germany**
 
-* 🧠 I’m learning **Next.js, Python, OpenAI, Solidity** 
+*I’m learning **Next.js, Python, OpenAI, Solidity** 
 
 * 🖥️ See my portfolio here: [http://patrickholderness.com](http://patrickholderness.com)
 
 * ✉️ You can contact me at **patrickholderness@gmail.com**
 
-* ⚡  I'm currently looking for an opportunity as a junior front-end developer
+* ⚡  I'm currently looking for an opportunity as a full stack or front-end developer
 
 
 <h3 align="left">Connect with me:</h3>
